@@ -1,0 +1,8 @@
+E:\Shilpa\E_Loan_Updated\E_Loan_Updated.Entities\bin\Debug\netcoreapp2.2\E_Loan_Updated.Entities.deps.json
+E:\Shilpa\E_Loan_Updated\E_Loan_Updated.Entities\bin\Debug\netcoreapp2.2\E_Loan_Updated.Entities.dll
+E:\Shilpa\E_Loan_Updated\E_Loan_Updated.Entities\bin\Debug\netcoreapp2.2\E_Loan_Updated.Entities.pdb
+E:\Shilpa\E_Loan_Updated\E_Loan_Updated.Entities\obj\Debug\netcoreapp2.2\E_Loan_Updated.Entities.csproj.CoreCompileInputs.cache
+E:\Shilpa\E_Loan_Updated\E_Loan_Updated.Entities\obj\Debug\netcoreapp2.2\E_Loan_Updated.Entities.AssemblyInfoInputs.cache
+E:\Shilpa\E_Loan_Updated\E_Loan_Updated.Entities\obj\Debug\netcoreapp2.2\E_Loan_Updated.Entities.AssemblyInfo.cs
+E:\Shilpa\E_Loan_Updated\E_Loan_Updated.Entities\obj\Debug\netcoreapp2.2\E_Loan_Updated.Entities.dll
+E:\Shilpa\E_Loan_Updated\E_Loan_Updated.Entities\obj\Debug\netcoreapp2.2\E_Loan_Updated.Entities.pdb

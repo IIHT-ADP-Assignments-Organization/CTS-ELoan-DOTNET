@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "E_Loan_Updated.Entities/1.0.0": {
+        "runtime": {
+          "E_Loan_Updated.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E_Loan_Updated.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

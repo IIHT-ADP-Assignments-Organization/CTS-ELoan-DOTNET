@@ -1,0 +1,14 @@
+E:\Shilpa\E_Loan_Updated\E_Loan_Updated.BusinessLayer\bin\Debug\netcoreapp2.2\E_Loan_Updated.BusinessLayer.deps.json
+E:\Shilpa\E_Loan_Updated\E_Loan_Updated.BusinessLayer\bin\Debug\netcoreapp2.2\E_Loan_Updated.BusinessLayer.dll
+E:\Shilpa\E_Loan_Updated\E_Loan_Updated.BusinessLayer\bin\Debug\netcoreapp2.2\E_Loan_Updated.BusinessLayer.pdb
+E:\Shilpa\E_Loan_Updated\E_Loan_Updated.BusinessLayer\bin\Debug\netcoreapp2.2\E_Loan_Updated.DataLayer.dll
+E:\Shilpa\E_Loan_Updated\E_Loan_Updated.BusinessLayer\bin\Debug\netcoreapp2.2\E_Loan_Updated.Entities.dll
+E:\Shilpa\E_Loan_Updated\E_Loan_Updated.BusinessLayer\bin\Debug\netcoreapp2.2\E_Loan_Updated.DataLayer.pdb
+E:\Shilpa\E_Loan_Updated\E_Loan_Updated.BusinessLayer\bin\Debug\netcoreapp2.2\E_Loan_Updated.Entities.pdb
+E:\Shilpa\E_Loan_Updated\E_Loan_Updated.BusinessLayer\obj\Debug\netcoreapp2.2\E_Loan_Updated.BusinessLayer.csprojAssemblyReference.cache
+E:\Shilpa\E_Loan_Updated\E_Loan_Updated.BusinessLayer\obj\Debug\netcoreapp2.2\E_Loan_Updated.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Shilpa\E_Loan_Updated\E_Loan_Updated.BusinessLayer\obj\Debug\netcoreapp2.2\E_Loan_Updated.BusinessLayer.AssemblyInfoInputs.cache
+E:\Shilpa\E_Loan_Updated\E_Loan_Updated.BusinessLayer\obj\Debug\netcoreapp2.2\E_Loan_Updated.BusinessLayer.AssemblyInfo.cs
+E:\Shilpa\E_Loan_Updated\E_Loan_Updated.BusinessLayer\obj\Debug\netcoreapp2.2\E_Loan_Updated.BusinessLayer.csproj.CopyComplete
+E:\Shilpa\E_Loan_Updated\E_Loan_Updated.BusinessLayer\obj\Debug\netcoreapp2.2\E_Loan_Updated.BusinessLayer.dll
+E:\Shilpa\E_Loan_Updated\E_Loan_Updated.BusinessLayer\obj\Debug\netcoreapp2.2\E_Loan_Updated.BusinessLayer.pdb

@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\E_Loan_Updated.DataLayer\E_Loan_Updated.DataLayer.csproj" />
+    <ProjectReference Include="..\E_Loan_Updated.Entities\E_Loan_Updated.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
